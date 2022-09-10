@@ -20,16 +20,16 @@ void setup()
 
 
 
-/*  if working with a negative input:
+// if working with a negative input:
 
-  int input = -30;
+/*  int input = -30;
   
   void setup()
   {
     for(int i = 0; i > input; i--)
     {
       println(i);
-      if (i == 6)
+      if (i == -6)
       {
         println("six");
       }
